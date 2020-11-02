@@ -5,7 +5,7 @@ This script allows you to deauth a specific SSID or an entire channel or an spec
 # ScreenShots:
 <a>
   <img src="https://1.bp.blogspot.com/-k7lyaRw5aV4/X6BLau-0yRI/AAAAAAAAAVw/breLd70Vn1sfrb9MXeI3OuOzjy5XMdG_gCLcBGAsYHQ/s1366/Screenshot%2B2020-11-02%2B19_41_56.png">
-    <img src="https://1.bp.blogspot.com/-ST3sspbL3Bk/X58jtMLD6XI/AAAAAAAAAVA/ePzhnOsx_vM2mkSm-UupB5VH14h6rt4LgCLcBGAsYHQ/s1366/snapshot1.jpg">
+  <img src="https://1.bp.blogspot.com/-jWJJI_iQp2M/X6AV_jtVvSI/AAAAAAAAAVk/9Ib0SvhWMtAnfYgxvX2FZ4Kx-R5-Phm4gCLcBGAsYHQ/s1366/snapshot1.jpg">
   <img src="">
   <img src="">
 </a>
