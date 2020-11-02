@@ -23,7 +23,7 @@ $ git clone https://github.com/roobini-gamer/Impostor.git
 $ cd Impostor
 $ chmod +x Impostor.py
 $ chmod +x Installer.py
-$ ./Installer.sh
+$ ./installer.sh
 $ ./Impostor.sh
 ```
 
