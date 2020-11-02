@@ -28,7 +28,7 @@ function banner () {
 "
 }
 banner
-
+ 
 # Dependencies Check
 function checking_dependencies () {
 	clear
