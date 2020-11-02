@@ -25,15 +25,10 @@ PYTHON
 
 ```
 $ git clone https://github.com/roobini-gamer/Impostor.git
-
 $ cd Impostor
-
 $ chmod +x Impostor.py
-
 $ chmod +x Installer.py
-
 $ python Installer.py
-
 $ python Impostor.py
 ```
 
