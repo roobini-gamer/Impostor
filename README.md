@@ -21,8 +21,8 @@ This script allows you to deauth a specific SSID or an entire channel or an spec
 ```
 $ git clone https://github.com/roobini-gamer/Impostor.git
 $ cd Impostor
-$ chmod +x Impostor.py
-$ chmod +x Installer.py
+$ chmod +x Impostor.sh
+$ chmod +x Installer.sh
 $ ./installer.sh
 $ ./Impostor.sh
 ```
