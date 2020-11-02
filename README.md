@@ -19,16 +19,22 @@ MACCHANGER
 
 NMCLI 
 
+PYTHON
+
 # Instalation:
 
 ```
 $ git clone https://github.com/roobini-gamer/Impostor.git
 
-$ cd SEXY-EVIL-TWIN-master
+$ cd Impostor
 
-$ chmod +x SEXY-EVIL-TWIN
+$ chmod +x Impostor.py
 
-$ bash SEXY-EVIL-TWIN
+$ chmod +x Installer.py
+
+$ python Installer.py
+
+$ python Impostor.py
 ```
 
 # My web site
