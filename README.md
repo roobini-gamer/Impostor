@@ -13,13 +13,9 @@ This script allows you to deauth a specific SSID or an entire channel or an spec
 
 # Requirements:
 
-MDK3
-
-MACCHANGER
-
-NMCLI 
-
-PYTHON
+-MDK3
+-MACCHANGER
+-NMCLI 
 
 # Instalation:
 
@@ -28,8 +24,8 @@ $ git clone https://github.com/roobini-gamer/Impostor.git
 $ cd Impostor
 $ chmod +x Impostor.py
 $ chmod +x Installer.py
-$ python Installer.py
-$ python Impostor.py
+$ ./Installer.sh
+$ ./Impostor.sh
 ```
 
 # My web site
