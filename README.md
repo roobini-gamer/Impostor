@@ -11,10 +11,10 @@ This script allows you to deauth a specific SSID or an entire channel or an spec
 
 # Requirements:
 
-MDK3
-MACCHANGER
-NMCLI
-Aircrack-ng
+ MDK3
+ MACCHANGER
+ NMCLI
+ Aircrack-ng
 
 # Instalation:
 
