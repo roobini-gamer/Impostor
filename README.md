@@ -1,9 +1,9 @@
 # Impostor
 
-<p/>
-<img src="https://1.bp.blogspot.com/-CE1LcrJETNk/YHWQAzAsfiI/AAAAAAAAAfU/Pxlxmu4yTSgC4EZDV5yZa42FP5v50qBlQCLcBGAsYHQ/s320/external-content.duckduckgo.png" align=”middle”>
-<p align="center">
 
+<p style="text-align:center;"><img src="https://1.bp.blogspot.com/-CE1LcrJETNk/YHWQAzAsfiI/AAAAAAAAAfU/Pxlxmu4yTSgC4EZDV5yZa42FP5v50qBlQCLcBGAsYHQ/s320/external-content.duckduckgo.png" alt="Logo"></p>
+  
+  
 Automatic MDK3 deauther script. Fast, easy to use and powerful
 This script allows you to deauth a specific SSID or an entire channel or an specific device on AP also you can AP spam
 
